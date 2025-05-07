@@ -1,4 +1,0 @@
-M1:  PWMA = D2,  AIN1 = D4, AIN2 = D7
-M2:  PWMB = D3,  BIN1 = D8, BIN2 = D12
-M3:  PWMC = D5,  CIN1 = D13, CIN2 = D10
-M4:  PWMD = D6,  DIN1 = D11, DIN2 = D9
